@@ -1,6 +1,8 @@
-title: Minimal theme
+title: Nishant Mundhra's Portfolio
+email: mundhranishant@gmail.com
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: "B.Tech graduate from SRM Institute of Science and Technology, class of 2020. Currently enrolled in UpGrad and IIITB's Machine Learning & AI Program. Experienced in front-end development, aspiring to delve deeper into data science."
 show_downloads: true
+url: "https://mundhranishant.github.io"
 google_analytics:
 theme: jekyll-theme-minimal

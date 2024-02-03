@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Nishant Mundhra's Portfolio
 
-[Link to another page](./another-page.html).
+Welcome to my professional portfolio. I am a B.Tech graduate in Electronics & Communication Engineering from SRM Institute of Science and Technology, class of 2020, and currently enhancing my skills in Machine Learning & AI with UpGrad.
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Fraud Detection System
+A conceptual project exploring machine learning algorithms to detect and prevent fraudulent credit card transactions. This project represents my ongoing journey in the realm of data science.
 
-# Header 1
+![Fraud Detection](/assets/img/fraud_detection.jpg)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### More Projects Coming Soon
+As I progress through my Machine Learning & AI program, more projects will be showcased here.
 
-## Header 2
+## Skills
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **Programming Languages:** Python, JavaScript
+- **Front-end Technologies:** HTML, CSS, React
+- **Data Analysis Tools:** Excel, Python (Pandas)
+- **Machine Learning Frameworks:** (To be updated upon completion of current studies)
 
-### Header 3
+## About Me
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I ventured into software development after my B.Tech, specializing in front-end development for 6 months. Currently, I am transitioning into the data science arena through the "UpGrad and IIITB Machine Learning & AI Program-Dec 2023". 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+This portfolio is a chronicle of my learning path and projects. For collaboration or inquiries, feel free to reach out to me at [mundhranishant@gmail.com](mailto:mundhranishant@gmail.com).
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+For now, you can follow my progress on [GitHub](https://github.com/mundhranishant).
